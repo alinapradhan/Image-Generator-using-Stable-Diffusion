@@ -68,7 +68,7 @@ login("YOUR_HUGGINGFACE_TOKEN")
 
 ---
 
-## 🖼️ Example
+##  Example
 
 | Prompt                               | Output                              |
 | ------------------------------------ | ----------------------------------- |
@@ -78,7 +78,7 @@ login("YOUR_HUGGINGFACE_TOKEN")
 
 ---
 
-## ⚡ Tips
+##  Tips
 
 * Use more descriptive prompts for detailed results.
 * If you run out of GPU memory, switch to a smaller model (e.g., `stabilityai/sd-turbo`).
