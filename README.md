@@ -5,7 +5,7 @@ This project is a **Jupyter Notebook–based AI Image Generator** that leverages
 It allows you to generate high-quality images from text prompts directly within a notebook environment using GPU acceleration.
 
 ---
-
+ 
 ##  Features
 
 - Text-to-Image generation using **Stable Diffusion**
