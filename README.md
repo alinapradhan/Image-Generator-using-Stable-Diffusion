@@ -88,8 +88,3 @@ login("YOUR_HUGGINGFACE_TOKEN")
   image.save("output.png")
   ```
 
-
-
-
-Would you like me to include a **“Results” section** (with code snippets showing how prompts map to images) or keep it concise for GitHub?
-```
