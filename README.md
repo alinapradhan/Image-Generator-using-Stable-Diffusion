@@ -49,7 +49,7 @@ login("YOUR_HUGGINGFACE_TOKEN")
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/<your-username>/ImageGenerator.git
+   git clone https://github.com/alinapradhan/ImageGenerator.git
    cd ImageGenerator
    ```
 
